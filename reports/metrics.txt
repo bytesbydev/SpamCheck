@@ -1,0 +1,16 @@
+=== Spam Detector — Evaluation Metrics ===
+
+Accuracy : 0.9709
+Precision: 0.8603
+Recall   : 0.9141
+F1 Score : 0.8864
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ham       0.99      0.98      0.98       904
+        spam       0.86      0.91      0.89       128
+
+    accuracy                           0.97      1032
+   macro avg       0.92      0.95      0.93      1032
+weighted avg       0.97      0.97      0.97      1032
